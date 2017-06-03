@@ -1,4 +1,5 @@
 // JavaScript Document	http://softwarepda.net
+// Widget twiter, facebook, G+ for Web/Blog
 
 /*
 var head = document.getElementsByTagName("head")[0];
