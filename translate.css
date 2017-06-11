@@ -1,0 +1,39 @@
+DIV.TabView DIV.Tabs {
+	DISPLAY: block; FONT-WEIGHT: 900; FONT-SIZE: 12px; BACKGROUND: #ffffff; FLOAT: left; VERTICAL-ALIGN: middle; OVERFLOW: hidden; WIDTH: 180px; COLOR: #000080; LINE-HEIGHT: 24px; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+DIV.TabView DIV.Tabs A {
+	DISPLAY: block; FONT-WEIGHT: 900; FONT-SIZE: 12px; BACKGROUND: #ffffff; FLOAT: left; VERTICAL-ALIGN: middle; OVERFLOW: hidden; WIDTH: 180px; COLOR: #000080; LINE-HEIGHT: 24px; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+DIV.TabView DIV.Tabs A {
+	BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid
+}
+DIV.TabView DIV.Tabs A:hover {
+	
+}
+DIV.TabView DIV.Tabs A.Active {
+	FONT-WEIGHT: bold; BACKGROUND: #0099cc; COLOR: #ffffff
+}
+DIV.TabView DIV.Pages {
+	CLEAR: both; OVERFLOW: hidden; WIDTH: 99%
+}
+DIV.TabView DIV.Pages DIV.Page {
+	BORDER-RIGHT: #0099cc 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #0099cc 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; OVERFLOW: hidden; BORDER-LEFT: #0099cc 1px solid; WIDTH: 99%; PADDING-TOP: 0px; BORDER-BOTTOM: #0099cc 1px solid; HEIGHT: 99%; BACKGROUND-COLOR: #e8ffff
+}
+DIV.TabView DIV.Pages DIV.Page DIV.Pad {
+	PADDING-RIGHT: 18px; PADDING-LEFT: 18px; PADDING-BOTTOM: 3px; OVERFLOW: hidden; PADDING-TOP: 3px
+}
+DIV.TabView DIV.Pages DIV.Page DIV.Pad P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 5px; COLOR: #993300; PADDING-TOP: 0px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+DIV.TabView DIV.Pages DIV.Page DIV.Pad P.supportedlanguages {
+	FONT-SIZE: 11px; COLOR: #333333
+}
+DIV.resultdiv {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 17px; PADDING-BOTTOM: 10px; WIDTH: 99%; COLOR: #333333; LINE-HEIGHT: 20px; PADDING-TOP: 10px; FONT-FAMILY: "Times New Roman", Times, serif
+}
+DIV.resultdiv FIELDSET {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.resulttitle {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-WEIGHT: bold; FONT-SIZE: 14px; PADDING-BOTTOM: 2px; MARGIN: 10px 0px; PADDING-TOP: 2px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
